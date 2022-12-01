@@ -9,7 +9,7 @@ The code involves the implemntation of VAE, VAE-C and Fisher-Auto Encoders. The 
 ## Authors
 
 * Sijie Chen (sijie.chen@duke.edu) [@SijieChen](https://github.com/sjchenn)
-* Haoyu Jiang (haoyu.jiang@duke.edu) [@HaoyuJiang]
+* Haoyu Jiang (haoyu.jiang@duke.edu) [@HaoyuJiang](https://github.com/Haoyu-Jiang)
 
 
 ## License
